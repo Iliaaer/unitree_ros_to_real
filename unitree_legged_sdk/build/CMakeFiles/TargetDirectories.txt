@@ -1,0 +1,13 @@
+/home/ilya/unitree_legged_sdk-3.2/build/CMakeFiles/lcm_server_low.dir
+/home/ilya/unitree_legged_sdk-3.2/build/CMakeFiles/edit_cache.dir
+/home/ilya/unitree_legged_sdk-3.2/build/CMakeFiles/lcm_server_high.dir
+/home/ilya/unitree_legged_sdk-3.2/build/CMakeFiles/udp_send_test.dir
+/home/ilya/unitree_legged_sdk-3.2/build/CMakeFiles/example_velocity.dir
+/home/ilya/unitree_legged_sdk-3.2/build/CMakeFiles/lcm_server.dir
+/home/ilya/unitree_legged_sdk-3.2/build/CMakeFiles/example_walk.dir
+/home/ilya/unitree_legged_sdk-3.2/build/CMakeFiles/example_test.dir
+/home/ilya/unitree_legged_sdk-3.2/build/CMakeFiles/rebuild_cache.dir
+/home/ilya/unitree_legged_sdk-3.2/build/CMakeFiles/udp_recv_test.dir
+/home/ilya/unitree_legged_sdk-3.2/build/CMakeFiles/example_position.dir
+/home/ilya/unitree_legged_sdk-3.2/build/CMakeFiles/example_torque.dir
+/home/ilya/unitree_legged_sdk-3.2/build/CMakeFiles/example_wirelessHandle.dir
